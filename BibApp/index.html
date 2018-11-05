@@ -66,16 +66,13 @@
       });      
 
       //sync list changes
-      dbKlas.on('child_added', snap => {
+      dbRefList.on('child_added', snap => {
 
       const li = document.createElement('li');
       li.innerText = snap.val();
       li.id = snap.key;
       ulist.appendChild(li);
 
-      const lijst = document.createElement('li');
-      lijst.innerText = snap.val();
-      ulist.appendChild(lijst);
 
       });
 
