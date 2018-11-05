@@ -1,0 +1,354 @@
+STAMNUMMER;NAAM;VOORNAAM;KLAS
+13092;De Saeger;Gaï¿½ï;L2A
+13089;Raekelboom;Leni;L2A
+13054;Brosens;Jolien;L2A
+13007;Van den Broeck;Andreas;L2A
+18044;Al Khazragy;Lamar;L2A
+13090;Van Cleemputte;Ayden;L2A
+18045;DeBaere;Joran;L2A
+14061;Rafiy;Isra;L2A
+13069;Chang;Liam;L2A
+13087;Michalak;Sandra;L2A
+13094;Van Cam;Liam;L2A
+13056;Van Dam;Nyo;L2A
+12098;Temmerman;Juul;L2A
+12094;Hamade;Myriam;L2A
+13077;Bellefroid;Mattis;L2A
+14022;Oulad Ben Maati;Malak;L2A
+13100;Arif;Efe;L2A
+13020;Geeraerts;Ninke;L2A
+15018;Abkadri;Haroune;L2A
+13005;De Smedt;Benjamin;L2A
+13070;Van den Heuvel;Magali;L2A
+13013;Madah;Maria;L2A
+13009;Luyten;Dilano;L2A
+15021;El Bardouni;Wissam;L2A
+13061;Korstanje;Lenn;L2B
+13095;Beckx;Jolien;L2B
+12093;Hamade;Kassim;L2B
+12081;Boogaerts;Xander;L2B
+13098;Remans;Renske;L2B
+13062;Raoui;Chadi;L2B
+17093;Janssens;Kobe;L2B
+13066;Ahssini;Rayane;L2B
+13071;Houvenaghel;Eva;L2B
+13078;De Weerdt;Lowe;L2B
+13052;Wouters;Louise;L2B
+15043;Elezi;Krenare;L2B
+14018;Ahmindach;Inara;L2B
+13067;Berger;Marthe;L2B
+15089;Belkadi;Zakariya;L2B
+13093;Nyssen;Emma;L2B
+13079;Bennani;Suleyman;L2B
+14019;El Meloudi;Safwane;L2B
+13075;Madej;Maksymilian;L2B
+15057;Gevorgyan;Nelli;L2B
+15022;Shamuka;Jehieli Junisa;L2B
+13082;van Gastel;Louise;L2B
+13076;Verstuyft;Joren;L2B
+13055;Cool;Lucia;L2B
+18042;Achalhi;Lamiae;L2C
+18066;Binda;Pooja;L2C
+15032;Frans;Elise;L2C
+13065;De Vleesschauwer;Eljin;L2C
+15054;Nabih;Aymane;L2C
+13057;Neyens;Yara;L2C
+14015;Palmans;Kobe;L2C
+13060;T'Seyen;Milla;L2C
+13088;Pelckmans;Lily Rose;L2C
+15046;El Uaamari;Adam;L2C
+13063;Provo;Fien;L2C
+13080;Lenaerts;Lune;L2C
+14017;Meuleman;Sepp;L2C
+12096;Stevens;Tijl;L2C
+18057;khaldi;Imane;L2C
+18043;Al Khazragy;Laya;L2C
+13019;Embrechts;Izzie;L2C
+13016;Etalei;Sami;L2C
+13084;Hindriks;Jolien;L2C
+13081;Van Damme;Jason;L2C
+13012;Caremans;Lore;L2C
+13059;Elst;Myrthe;L2C
+15107;Djoumbi Sango;Alixe;L2C
+13073;Dadi;Lina;L2C
+12012;Van Emelen;Ruben;L3A
+15033;Frans;Sophia;L3A
+12017;Van Esbroeck;Willem;L3A
+17056;Falchou;Benyamine;L3A
+14028;Ennassiri;Liam;L3A
+12025;Berrazi;Wasim;L3A
+11083;Luyten;Kyaro;L3A
+14025;El Barbar;Ilyas;L3A
+12075;Boughaba;Ryan;L3A
+12062;Genar;Tomas;L3A
+12076;Delaei;Nore;L3A
+12092;De Backer;Robine;L3A
+14024;Van den Ackerbroeck;Ayman;L3A
+18046;Yadav;Avantika;L3A
+15082;D'hont;Lore;L3A
+13004;Van Wolvelaer;Hailey;L3A
+17011;Elezi;Blediona;L3A
+17092;Janssens;Zoï;L3A
+13018;Schollaert;Jula;L3A
+17010;Smolders;Yenthe;L3A
+15080;Pittoors;Merel;L3A
+13008;El Addad;Ibtissam;L3A
+12069;Hindriks;Esther;L3A
+15044;Elezi;Rinesa;L3A
+12010;L'ecluse;Galatea;L3B
+12008;Coppieters;Donna;L3B
+15058;De Ravet;Caz;L3B
+17107;Floris;Bhumika;L3B
+12063;Genar;Maite;L3B
+17013;Senanu;Jada;L3B
+12078;Cardia;Letizia Silvia;L3B
+12067;Zemmouri;Aaliya;L3B
+12077;Masschaele;Lola;L3B
+12084;Charpentier;Mai Thy;L3B
+14016;Cuyvers;Jens;L3B
+18060;Janssens;Noah Amilla;L3B
+12070;Lamberts;Jef;L3B
+12102;Vandist;Lotte;L3B
+18069;Dahchour;Noor;L3B
+14026;Caluwaerts;Milan;L3B
+12100;Silva;Dimas;L3B
+12085;Gabriï¿;Marie;L3B
+14029;Van Leemput;Elise;L3B
+17012;Gondal;Aroush;L3B
+18056;Mbuta;Noely;L3B
+12089;Aerts;Billie-Jo;L3B
+12080;Giedts;Mats;L3B
+13039;Oulad Ben Maati;Yassine;L3B
+13015;Beckx;Lars;L3C
+12006;Spaans;Manu;L3C
+12083;Kames;Ruben;L3C
+17014;N'Zinga Vicky;Anael;L3C
+12061;Dierckx;Loena;L3C
+11075;Thijs;Stan;L3C
+17094;Baeten;Iluna;L3C
+13006;Garmyn;Elliott;L3C
+13001;Van den Bosch;Maxim;L3C
+12007;Palmaerts;Jolan;L3C
+12104;Hagenaars;Lara;L3C
+12103;Gysels;Lore;L3C
+12066;Lepage;Amï¿½ï;L3C
+12090;Vangoidsenhoven;Kyan;L3C
+14056;Smeets;Arne;L3C
+17008;Ciolek;Julia Anna;L3C
+12011;Oulad Si M'Hamed;Iman;L3C
+12082;Cabus;Amy;L3C
+12095;Van Dyck;Bent;L3C
+13002;El Maghroudi;Hafsa;L3C
+17009;Smolders;Yliana;L3C
+13023;Van Overschelde;Kyano;L3C
+13010;Peustjens;Lio;L3C
+12065;Ben Taher;Lina;L3C
+18047;Vanderstappen;Elke;L4A
+17005;Neyt;Baz;L4A
+11060;Van den Broeck;Lucas;L4A
+15055;Nabih;Ayoub;L4A
+11085;Van Cleemputte;Lilly-Fay;L4A
+11058;Mï¿½ï¿;Max;L4A
+13047;N'Dongo;Amadou;L4A
+11105;Wouters;Helena;L4A
+11094;De Giovanni;Ilya;L4A
+11030;Molina Vergara;Aisha;L4A
+13026;Ballegeer;Kobe;L4A
+11034;Van Dam;Yline;L4A
+18048;Achalhi;Imaan;L4A
+11099;Van Tilborgh;Lotte;L4A
+13027;Cool;Pol;L4A
+11080;Van Gansen;Kyan;L4A
+11070;Hof;Lena;L4A
+12021;Tesfaye;Delina;L4A
+16037;Inglï¿;Jurelma;L4A
+11041;Gorrebeeck;Femke;L4A
+12032;Muslimovic;Alisa;L4A
+12024;Matejuk;Alan;L4A
+14034;Oulad Ali;Samya;L4A
+18062;Bouklata;Tasniem;L4A
+13051;Van den Broeck;Lex;L4B
+13038;Faraouni;Anas;L4B
+11088;Van Rillaer;Fien;L4B
+11008;Casado Guillen;Christian;L4B
+11056;Jacobs;Margo;L4B
+11078;D'eer;Maite;L4B
+11052;Boughaba;Naoual;L4B
+11053;De Maesschalck;Maxime;L4B
+11101;Vander Velpen;Senne;L4B
+11039;Van Peer;Geike;L4B
+11005;Brosens;Kato;L4B
+11098;Van den Meerssche;Iben;L4B
+11036;Van Dyck;Silke;L4B
+11033;Saï¿;Ishak;L4B
+11087;Van Echelpoel;Thomas;L4B
+11071;Madej;Nina;L4B
+11086;Vandewijngaerde;Thor;L4B
+11076;Van Ostaeyen;Emilie;L4B
+11054;Ennasiri;Ayman;L4B
+11018;Franquet;Hannah;L4B
+11077;Voncken;Nio;L4B
+16095;Belkadi;Hiba;L4B
+16027;El Bardouni;Mayssa;L4B
+12022;Benhadou;Yanis;L4B
+13083;Sophie;Lewis;L4C
+12074;Ngouwa;Lesline;L4C
+11019;Franquet;Laurien;L4C
+11074;Silva Nascimento;Mila;L4C
+17004;Smolders;Yens;L4C
+11079;Pauwels;Matts;L4C
+13029;Beckx;Jasper;L4C
+12002;Organe;Mona;L4C
+13048;N'Dongo;Aissata;L4C
+14062;Rafiy;Maram;L4C
+11102;Verraedt;Maxime;L4C
+11100;Callens;Mille;L4C
+16028;Gharani;Hassina;L4C
+14033;Doudah;Rana;L4C
+12027;De Prï;Roan;L4C
+13031;Kaniki;Areeli;L4C
+11093;Boulakhrif;Youssef;L4C
+13072;Laba;Sonia Abla Agouti;L4C
+11064;De Cleen;Liam;L4C
+11097;Steurs;Lily;L4C
+18058;Bouda El Koubai;Lina;L4C
+18059;Bouda El Koubai;Rim;L4C
+11061;Van den Heuvel;Cas;L4C
+11096;Houvenaghel;Viktor;L4C
+10020;Freund;Ryan;L5A
+9069;Huybrechts;Jarne;L5A
+10053;Verschueren;Allaya;L5A
+10089;Wijnen;Nand;L5A
+12031;Etalei;Lina;L5A
+10063;Toksï¿;Ilyas;L5A
+10085;Schollaert;Ilana;L5A
+12053;Satiss;Meysa;L5A
+10099;Temmerman;Lowie;L5A
+10073;De Vleesschauwer;Thyra;L5A
+10072;De Naeyer;Sam;L5A
+10076;Palomo Fernandez;Valerio;L5A
+15037;Elezi;Endrit;L5A
+9085;Heuten;Angelina;L5A
+16038;Belkadi;Ali;L5A
+15045;Elezi;Laerta;L5A
+12030;Ophalvens;Elmer;L5A
+10097;Van Wolvelaer;Ayden;L5A
+12029;Chiguer;Anwar;L5A
+10095;Joos;Mauro;L5A
+10048;Kaddour;Nawfal;L5A
+13041;Ouahchi;Ilyes;L5A
+10066;Verlinden;Lore;L5B
+11042;Voncken;Sterre;L5B
+10046;Depaemelaere;Alexander;L5B
+10082;Lam;Fiona;L5B
+10031;Mariï¿;Dylan;L5B
+15023;Apers;Stan;L5B
+10056;Gilon;Roxanne;L5B
+10088;Viaene;Vincent;L5B
+12028;De Volder;Lies;L5B
+10093;Ahmindach;Haytham;L5B
+10067;Vervoort;Mila;L5B
+10087;Van Maele;Milan;L5B
+10052;Van den Brande;Lore;L5B
+10090;Wouters;Tess;L5B
+17095;Baeten;Quinten;L5B
+10065;Van Gansen;Kiara;L5B
+14076;Gharani;Zakariya;L5B
+10077;De Saeger;Kaelan;L5B
+10080;Huybrechts;Rihanna;L5B
+10081;Karaca;Eslem;L5B
+10092;Adnoub;Oumnia;L5B
+11002;Benhaddou;Isa;L5B
+15029;Dahmany;Amir;L5B
+10051;Saysay;Riyad;L5C
+10032;Mory;Jens;L5C
+10050;Peustjens;Jaro;L5C
+11022;Hermans;Tirza;L5C
+10028;Lierman;Emiel;L5C
+10068;Wouters;Elena;L5C
+12060;Harchi Azaoum;Laila;L5C
+10096;Simons;Brent;L5C
+11021;Hermans;Lander;L5C
+10015;Doose;Cedric;L5C
+10055;Annemans;Vinny;L5C
+10078;Franck;Ilean;L5C
+10094;Barberio;Lorena;L5C
+9080;Van Cleemput;Amber;L5C
+10029;Lierman;Lowie;L5C
+10054;Annemans;Dafny;L5C
+15036;Dendievel;Helena;L5C
+15047;El Uaamari;Mohamed;L5C
+10001;Aerts;Faye;L5C
+10074;Lauwers;Stef;L5C
+12087;El Meloudi;Wassim;L5C
+13058;Sophie;Nona;L5C
+18049;Ledens;Kobe;L5C
+9104;Van Peer;Jalke;L6A
+9064;Claes;Thiago;L6A
+9100;Organe;Lily;L6A
+9059;Pauwels;Kaat;L6A
+9086;Hullegems;Maxim;L6A
+11081;El Maghroudi;Hasnae;L6A
+11090;El Addad;Oussama;L6A
+14042;Caluwaerts;Tanguy;L6A
+9093;De Langhe;Ilian;L6A
+15056;Gevorgyan;Milena;L6A
+14052;Ennassiri;Inaya;L6A
+10039;Van Gestel;Charlotte;L6A
+17058;Achalhi;Aya;L6A
+9077;Franquet;Willem;L6A
+9095;Franck;Elise;L6A
+9076;Vanroosbroek;Lennert;L6A
+9102;Schollaert;Nona;L6A
+10084;Pinson;Amy Lee;L6A
+16030;Neyt;Zeb;L6A
+9103;Stoop;Amy;L6A
+9048;Van Echelpoel;Emilie;L6A
+9097;Franï¿½ï;Yuna;L6A
+9066;De Prins;Eowyn;L6A
+9039;Said;Yassir;L6B
+17055;Falchou;Sami;L6B
+9053;Zegers;Quinten;L6B
+9081;Van Ostaeyen;Louise;L6B
+17002;Zarioh;Lina;L6B
+14044;N'Dongo;Ibrahima;L6B
+11046;Bennani;Inas;L6B
+9057;Fajjia;Marjana;L6B
+10026;Haran;Sara;L6B
+9070;Jilali;Ilias;L6B
+9096;Franï¿½ï;Kyna;L6B
+8077;Schippers;Emma;L6B
+14051;Morel;Adelina;L6B
+9078;Hamade;Mehdi;L6B
+9091;De Cleen;Anaï¿;L6B
+9072;Reynders;Mathias;L6B
+9099;Kortmann;Noor;L6B
+13042;Lambrechts;Yoran;L6B
+12052;Masschaele;Floor;L6B
+13049;Zelenkov;Fjodor;L6B
+16042;Alioglu;Hilmi;L6B
+16029;Senanu;Jasin;L6B
+9063;Bouzaidi;Mohammed;L6B
+9089;Caremans;Dries;L6C
+11063;Simon;Rafaï¿;L6C
+9088;Brans;Moranne;L6C
+14077;Gharani;Palwasha;L6C
+9034;Manoukian;Valerie;L6C
+9090;De Baets;Dries;L6C
+9075;Vandewijngaerde;Nils;L6C
+9098;Kortmann;Arthur;L6C
+10012;Delaei;Kato;L6C
+14038;Kajjiaa;Wiam;L6C
+10040;Verwerft;Thor;L6C
+9092;De Hertogh;Rani;L6C
+12057;Yakub;Soykan;L6C
+9074;Swinkels;Kenzo;L6C
+9062;Aerts;Ella;L6C
+10038;Tassyns;Hayley;L6C
+9087;Rincheval;Rune;L6C
+14039;N'Dongo;Marieme;L6C
+9011;Claus;Jente;L6C
+9101;Provo;Warre;L6C
+9056;Butzen;Jorien;L6C
+14036;Doudah;Sirine;L6C
+11009;Chichian;Ilias;L6C

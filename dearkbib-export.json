@@ -1,0 +1,2122 @@
+{
+  "0" : {
+    "KLAS" : "L2A",
+    "NAAM" : "De Saeger",
+    "STAMNUMMER" : 13092,
+    "VOORNAAM" : "Ga��"
+  },
+  "1" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Raekelboom",
+    "STAMNUMMER" : 13089,
+    "VOORNAAM" : "Leni"
+  },
+  "2" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Brosens",
+    "STAMNUMMER" : 13054,
+    "VOORNAAM" : "Jolien"
+  },
+  "3" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Van den Broeck",
+    "STAMNUMMER" : 13007,
+    "VOORNAAM" : "Andreas"
+  },
+  "4" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Al Khazragy",
+    "STAMNUMMER" : 18044,
+    "VOORNAAM" : "Lamar"
+  },
+  "5" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Van Cleemputte",
+    "STAMNUMMER" : 13090,
+    "VOORNAAM" : "Ayden"
+  },
+  "6" : {
+    "KLAS" : "L2A",
+    "NAAM" : "DeBaere",
+    "STAMNUMMER" : 18045,
+    "VOORNAAM" : "Joran"
+  },
+  "7" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Rafiy",
+    "STAMNUMMER" : 14061,
+    "VOORNAAM" : "Isra"
+  },
+  "8" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Chang",
+    "STAMNUMMER" : 13069,
+    "VOORNAAM" : "Liam"
+  },
+  "9" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Michalak",
+    "STAMNUMMER" : 13087,
+    "VOORNAAM" : "Sandra"
+  },
+  "10" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Van Cam",
+    "STAMNUMMER" : 13094,
+    "VOORNAAM" : "Liam"
+  },
+  "11" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Van Dam",
+    "STAMNUMMER" : 13056,
+    "VOORNAAM" : "Nyo"
+  },
+  "12" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Temmerman",
+    "STAMNUMMER" : 12098,
+    "VOORNAAM" : "Juul"
+  },
+  "13" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Hamade",
+    "STAMNUMMER" : 12094,
+    "VOORNAAM" : "Myriam"
+  },
+  "14" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Bellefroid",
+    "STAMNUMMER" : 13077,
+    "VOORNAAM" : "Mattis"
+  },
+  "15" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Oulad Ben Maati",
+    "STAMNUMMER" : 14022,
+    "VOORNAAM" : "Malak"
+  },
+  "16" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Arif",
+    "STAMNUMMER" : 13100,
+    "VOORNAAM" : "Efe"
+  },
+  "17" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Geeraerts",
+    "STAMNUMMER" : 13020,
+    "VOORNAAM" : "Ninke"
+  },
+  "18" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Abkadri",
+    "STAMNUMMER" : 15018,
+    "VOORNAAM" : "Haroune"
+  },
+  "19" : {
+    "KLAS" : "L2A",
+    "NAAM" : "De Smedt",
+    "STAMNUMMER" : 13005,
+    "VOORNAAM" : "Benjamin"
+  },
+  "20" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Van den Heuvel",
+    "STAMNUMMER" : 13070,
+    "VOORNAAM" : "Magali"
+  },
+  "21" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Madah",
+    "STAMNUMMER" : 13013,
+    "VOORNAAM" : "Maria"
+  },
+  "22" : {
+    "KLAS" : "L2A",
+    "NAAM" : "Luyten",
+    "STAMNUMMER" : 13009,
+    "VOORNAAM" : "Dilano"
+  },
+  "23" : {
+    "KLAS" : "L2A",
+    "NAAM" : "El Bardouni",
+    "STAMNUMMER" : 15021,
+    "VOORNAAM" : "Wissam"
+  },
+  "24" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Korstanje",
+    "STAMNUMMER" : 13061,
+    "VOORNAAM" : "Lenn"
+  },
+  "25" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Beckx",
+    "STAMNUMMER" : 13095,
+    "VOORNAAM" : "Jolien"
+  },
+  "26" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Hamade",
+    "STAMNUMMER" : 12093,
+    "VOORNAAM" : "Kassim"
+  },
+  "27" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Boogaerts",
+    "STAMNUMMER" : 12081,
+    "VOORNAAM" : "Xander"
+  },
+  "28" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Remans",
+    "STAMNUMMER" : 13098,
+    "VOORNAAM" : "Renske"
+  },
+  "29" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Raoui",
+    "STAMNUMMER" : 13062,
+    "VOORNAAM" : "Chadi"
+  },
+  "30" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Janssens",
+    "STAMNUMMER" : 17093,
+    "VOORNAAM" : "Kobe"
+  },
+  "31" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Ahssini",
+    "STAMNUMMER" : 13066,
+    "VOORNAAM" : "Rayane"
+  },
+  "32" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Houvenaghel",
+    "STAMNUMMER" : 13071,
+    "VOORNAAM" : "Eva"
+  },
+  "33" : {
+    "KLAS" : "L2B",
+    "NAAM" : "De Weerdt",
+    "STAMNUMMER" : 13078,
+    "VOORNAAM" : "Lowe"
+  },
+  "34" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Wouters",
+    "STAMNUMMER" : 13052,
+    "VOORNAAM" : "Louise"
+  },
+  "35" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Elezi",
+    "STAMNUMMER" : 15043,
+    "VOORNAAM" : "Krenare"
+  },
+  "36" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Ahmindach",
+    "STAMNUMMER" : 14018,
+    "VOORNAAM" : "Inara"
+  },
+  "37" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Berger",
+    "STAMNUMMER" : 13067,
+    "VOORNAAM" : "Marthe"
+  },
+  "38" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Belkadi",
+    "STAMNUMMER" : 15089,
+    "VOORNAAM" : "Zakariya"
+  },
+  "39" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Nyssen",
+    "STAMNUMMER" : 13093,
+    "VOORNAAM" : "Emma"
+  },
+  "40" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Bennani",
+    "STAMNUMMER" : 13079,
+    "VOORNAAM" : "Suleyman"
+  },
+  "41" : {
+    "KLAS" : "L2B",
+    "NAAM" : "El Meloudi",
+    "STAMNUMMER" : 14019,
+    "VOORNAAM" : "Safwane"
+  },
+  "42" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Madej",
+    "STAMNUMMER" : 13075,
+    "VOORNAAM" : "Maksymilian"
+  },
+  "43" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Gevorgyan",
+    "STAMNUMMER" : 15057,
+    "VOORNAAM" : "Nelli"
+  },
+  "44" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Shamuka",
+    "STAMNUMMER" : 15022,
+    "VOORNAAM" : "Jehieli Junisa"
+  },
+  "45" : {
+    "KLAS" : "L2B",
+    "NAAM" : "van Gastel",
+    "STAMNUMMER" : 13082,
+    "VOORNAAM" : "Louise"
+  },
+  "46" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Verstuyft",
+    "STAMNUMMER" : 13076,
+    "VOORNAAM" : "Joren"
+  },
+  "47" : {
+    "KLAS" : "L2B",
+    "NAAM" : "Cool",
+    "STAMNUMMER" : 13055,
+    "VOORNAAM" : "Lucia"
+  },
+  "48" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Achalhi",
+    "STAMNUMMER" : 18042,
+    "VOORNAAM" : "Lamiae"
+  },
+  "49" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Binda",
+    "STAMNUMMER" : 18066,
+    "VOORNAAM" : "Pooja"
+  },
+  "50" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Frans",
+    "STAMNUMMER" : 15032,
+    "VOORNAAM" : "Elise"
+  },
+  "51" : {
+    "KLAS" : "L2C",
+    "NAAM" : "De Vleesschauwer",
+    "STAMNUMMER" : 13065,
+    "VOORNAAM" : "Eljin"
+  },
+  "52" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Nabih",
+    "STAMNUMMER" : 15054,
+    "VOORNAAM" : "Aymane"
+  },
+  "53" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Neyens",
+    "STAMNUMMER" : 13057,
+    "VOORNAAM" : "Yara"
+  },
+  "54" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Palmans",
+    "STAMNUMMER" : 14015,
+    "VOORNAAM" : "Kobe"
+  },
+  "55" : {
+    "KLAS" : "L2C",
+    "NAAM" : "T'Seyen",
+    "STAMNUMMER" : 13060,
+    "VOORNAAM" : "Milla"
+  },
+  "56" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Pelckmans",
+    "STAMNUMMER" : 13088,
+    "VOORNAAM" : "Lily Rose"
+  },
+  "57" : {
+    "KLAS" : "L2C",
+    "NAAM" : "El Uaamari",
+    "STAMNUMMER" : 15046,
+    "VOORNAAM" : "Adam"
+  },
+  "58" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Provo",
+    "STAMNUMMER" : 13063,
+    "VOORNAAM" : "Fien"
+  },
+  "59" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Lenaerts",
+    "STAMNUMMER" : 13080,
+    "VOORNAAM" : "Lune"
+  },
+  "60" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Meuleman",
+    "STAMNUMMER" : 14017,
+    "VOORNAAM" : "Sepp"
+  },
+  "61" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Stevens",
+    "STAMNUMMER" : 12096,
+    "VOORNAAM" : "Tijl"
+  },
+  "62" : {
+    "KLAS" : "L2C",
+    "NAAM" : "khaldi",
+    "STAMNUMMER" : 18057,
+    "VOORNAAM" : "Imane"
+  },
+  "63" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Al Khazragy",
+    "STAMNUMMER" : 18043,
+    "VOORNAAM" : "Laya"
+  },
+  "64" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Embrechts",
+    "STAMNUMMER" : 13019,
+    "VOORNAAM" : "Izzie"
+  },
+  "65" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Etalei",
+    "STAMNUMMER" : 13016,
+    "VOORNAAM" : "Sami"
+  },
+  "66" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Hindriks",
+    "STAMNUMMER" : 13084,
+    "VOORNAAM" : "Jolien"
+  },
+  "67" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Van Damme",
+    "STAMNUMMER" : 13081,
+    "VOORNAAM" : "Jason"
+  },
+  "68" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Caremans",
+    "STAMNUMMER" : 13012,
+    "VOORNAAM" : "Lore"
+  },
+  "69" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Elst",
+    "STAMNUMMER" : 13059,
+    "VOORNAAM" : "Myrthe"
+  },
+  "70" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Djoumbi Sango",
+    "STAMNUMMER" : 15107,
+    "VOORNAAM" : "Alixe"
+  },
+  "71" : {
+    "KLAS" : "L2C",
+    "NAAM" : "Dadi",
+    "STAMNUMMER" : 13073,
+    "VOORNAAM" : "Lina"
+  },
+  "72" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Van Emelen",
+    "STAMNUMMER" : 12012,
+    "VOORNAAM" : "Ruben"
+  },
+  "73" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Frans",
+    "STAMNUMMER" : 15033,
+    "VOORNAAM" : "Sophia"
+  },
+  "74" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Van Esbroeck",
+    "STAMNUMMER" : 12017,
+    "VOORNAAM" : "Willem"
+  },
+  "75" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Falchou",
+    "STAMNUMMER" : 17056,
+    "VOORNAAM" : "Benyamine"
+  },
+  "76" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Ennassiri",
+    "STAMNUMMER" : 14028,
+    "VOORNAAM" : "Liam"
+  },
+  "77" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Berrazi",
+    "STAMNUMMER" : 12025,
+    "VOORNAAM" : "Wasim"
+  },
+  "78" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Luyten",
+    "STAMNUMMER" : 11083,
+    "VOORNAAM" : "Kyaro"
+  },
+  "79" : {
+    "KLAS" : "L3A",
+    "NAAM" : "El Barbar",
+    "STAMNUMMER" : 14025,
+    "VOORNAAM" : "Ilyas"
+  },
+  "80" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Boughaba",
+    "STAMNUMMER" : 12075,
+    "VOORNAAM" : "Ryan"
+  },
+  "81" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Genar",
+    "STAMNUMMER" : 12062,
+    "VOORNAAM" : "Tomas"
+  },
+  "82" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Delaei",
+    "STAMNUMMER" : 12076,
+    "VOORNAAM" : "Nore"
+  },
+  "83" : {
+    "KLAS" : "L3A",
+    "NAAM" : "De Backer",
+    "STAMNUMMER" : 12092,
+    "VOORNAAM" : "Robine"
+  },
+  "84" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Van den Ackerbroeck",
+    "STAMNUMMER" : 14024,
+    "VOORNAAM" : "Ayman"
+  },
+  "85" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Yadav",
+    "STAMNUMMER" : 18046,
+    "VOORNAAM" : "Avantika"
+  },
+  "86" : {
+    "KLAS" : "L3A",
+    "NAAM" : "D'hont",
+    "STAMNUMMER" : 15082,
+    "VOORNAAM" : "Lore"
+  },
+  "87" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Van Wolvelaer",
+    "STAMNUMMER" : 13004,
+    "VOORNAAM" : "Hailey"
+  },
+  "88" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Elezi",
+    "STAMNUMMER" : 17011,
+    "VOORNAAM" : "Blediona"
+  },
+  "89" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Janssens",
+    "STAMNUMMER" : 17092,
+    "VOORNAAM" : "Zo�"
+  },
+  "90" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Schollaert",
+    "STAMNUMMER" : 13018,
+    "VOORNAAM" : "Jula"
+  },
+  "91" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Smolders",
+    "STAMNUMMER" : 17010,
+    "VOORNAAM" : "Yenthe"
+  },
+  "92" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Pittoors",
+    "STAMNUMMER" : 15080,
+    "VOORNAAM" : "Merel"
+  },
+  "93" : {
+    "KLAS" : "L3A",
+    "NAAM" : "El Addad",
+    "STAMNUMMER" : 13008,
+    "VOORNAAM" : "Ibtissam"
+  },
+  "94" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Hindriks",
+    "STAMNUMMER" : 12069,
+    "VOORNAAM" : "Esther"
+  },
+  "95" : {
+    "KLAS" : "L3A",
+    "NAAM" : "Elezi",
+    "STAMNUMMER" : 15044,
+    "VOORNAAM" : "Rinesa"
+  },
+  "96" : {
+    "KLAS" : "L3B",
+    "NAAM" : "L'ecluse",
+    "STAMNUMMER" : 12010,
+    "VOORNAAM" : "Galatea"
+  },
+  "97" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Coppieters",
+    "STAMNUMMER" : 12008,
+    "VOORNAAM" : "Donna"
+  },
+  "98" : {
+    "KLAS" : "L3B",
+    "NAAM" : "De Ravet",
+    "STAMNUMMER" : 15058,
+    "VOORNAAM" : "Caz"
+  },
+  "99" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Floris",
+    "STAMNUMMER" : 17107,
+    "VOORNAAM" : "Bhumika"
+  },
+  "100" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Genar",
+    "STAMNUMMER" : 12063,
+    "VOORNAAM" : "Maite"
+  },
+  "101" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Senanu",
+    "STAMNUMMER" : 17013,
+    "VOORNAAM" : "Jada"
+  },
+  "102" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Cardia",
+    "STAMNUMMER" : 12078,
+    "VOORNAAM" : "Letizia Silvia"
+  },
+  "103" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Zemmouri",
+    "STAMNUMMER" : 12067,
+    "VOORNAAM" : "Aaliya"
+  },
+  "104" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Masschaele",
+    "STAMNUMMER" : 12077,
+    "VOORNAAM" : "Lola"
+  },
+  "105" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Charpentier",
+    "STAMNUMMER" : 12084,
+    "VOORNAAM" : "Mai Thy"
+  },
+  "106" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Cuyvers",
+    "STAMNUMMER" : 14016,
+    "VOORNAAM" : "Jens"
+  },
+  "107" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Janssens",
+    "STAMNUMMER" : 18060,
+    "VOORNAAM" : "Noah Amilla"
+  },
+  "108" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Lamberts",
+    "STAMNUMMER" : 12070,
+    "VOORNAAM" : "Jef"
+  },
+  "109" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Vandist",
+    "STAMNUMMER" : 12102,
+    "VOORNAAM" : "Lotte"
+  },
+  "110" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Dahchour",
+    "STAMNUMMER" : 18069,
+    "VOORNAAM" : "Noor"
+  },
+  "111" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Caluwaerts",
+    "STAMNUMMER" : 14026,
+    "VOORNAAM" : "Milan"
+  },
+  "112" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Silva",
+    "STAMNUMMER" : 12100,
+    "VOORNAAM" : "Dimas"
+  },
+  "113" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Gabri�",
+    "STAMNUMMER" : 12085,
+    "VOORNAAM" : "Marie"
+  },
+  "114" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Van Leemput",
+    "STAMNUMMER" : 14029,
+    "VOORNAAM" : "Elise"
+  },
+  "115" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Gondal",
+    "STAMNUMMER" : 17012,
+    "VOORNAAM" : "Aroush"
+  },
+  "116" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Mbuta",
+    "STAMNUMMER" : 18056,
+    "VOORNAAM" : "Noely"
+  },
+  "117" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Aerts",
+    "STAMNUMMER" : 12089,
+    "VOORNAAM" : "Billie-Jo"
+  },
+  "118" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Giedts",
+    "STAMNUMMER" : 12080,
+    "VOORNAAM" : "Mats"
+  },
+  "119" : {
+    "KLAS" : "L3B",
+    "NAAM" : "Oulad Ben Maati",
+    "STAMNUMMER" : 13039,
+    "VOORNAAM" : "Yassine"
+  },
+  "120" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Beckx",
+    "STAMNUMMER" : 13015,
+    "VOORNAAM" : "Lars"
+  },
+  "121" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Spaans",
+    "STAMNUMMER" : 12006,
+    "VOORNAAM" : "Manu"
+  },
+  "122" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Kames",
+    "STAMNUMMER" : 12083,
+    "VOORNAAM" : "Ruben"
+  },
+  "123" : {
+    "KLAS" : "L3C",
+    "NAAM" : "N'Zinga Vicky",
+    "STAMNUMMER" : 17014,
+    "VOORNAAM" : "Anael"
+  },
+  "124" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Dierckx",
+    "STAMNUMMER" : 12061,
+    "VOORNAAM" : "Loena"
+  },
+  "125" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Thijs",
+    "STAMNUMMER" : 11075,
+    "VOORNAAM" : "Stan"
+  },
+  "126" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Baeten",
+    "STAMNUMMER" : 17094,
+    "VOORNAAM" : "Iluna"
+  },
+  "127" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Garmyn",
+    "STAMNUMMER" : 13006,
+    "VOORNAAM" : "Elliott"
+  },
+  "128" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Van den Bosch",
+    "STAMNUMMER" : 13001,
+    "VOORNAAM" : "Maxim"
+  },
+  "129" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Palmaerts",
+    "STAMNUMMER" : 12007,
+    "VOORNAAM" : "Jolan"
+  },
+  "130" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Hagenaars",
+    "STAMNUMMER" : 12104,
+    "VOORNAAM" : "Lara"
+  },
+  "131" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Gysels",
+    "STAMNUMMER" : 12103,
+    "VOORNAAM" : "Lore"
+  },
+  "132" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Lepage",
+    "STAMNUMMER" : 12066,
+    "VOORNAAM" : "Am��"
+  },
+  "133" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Vangoidsenhoven",
+    "STAMNUMMER" : 12090,
+    "VOORNAAM" : "Kyan"
+  },
+  "134" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Smeets",
+    "STAMNUMMER" : 14056,
+    "VOORNAAM" : "Arne"
+  },
+  "135" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Ciolek",
+    "STAMNUMMER" : 17008,
+    "VOORNAAM" : "Julia Anna"
+  },
+  "136" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Oulad Si M'Hamed",
+    "STAMNUMMER" : 12011,
+    "VOORNAAM" : "Iman"
+  },
+  "137" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Cabus",
+    "STAMNUMMER" : 12082,
+    "VOORNAAM" : "Amy"
+  },
+  "138" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Van Dyck",
+    "STAMNUMMER" : 12095,
+    "VOORNAAM" : "Bent"
+  },
+  "139" : {
+    "KLAS" : "L3C",
+    "NAAM" : "El Maghroudi",
+    "STAMNUMMER" : 13002,
+    "VOORNAAM" : "Hafsa"
+  },
+  "140" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Smolders",
+    "STAMNUMMER" : 17009,
+    "VOORNAAM" : "Yliana"
+  },
+  "141" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Van Overschelde",
+    "STAMNUMMER" : 13023,
+    "VOORNAAM" : "Kyano"
+  },
+  "142" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Peustjens",
+    "STAMNUMMER" : 13010,
+    "VOORNAAM" : "Lio"
+  },
+  "143" : {
+    "KLAS" : "L3C",
+    "NAAM" : "Ben Taher",
+    "STAMNUMMER" : 12065,
+    "VOORNAAM" : "Lina"
+  },
+  "144" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Vanderstappen",
+    "STAMNUMMER" : 18047,
+    "VOORNAAM" : "Elke"
+  },
+  "145" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Neyt",
+    "STAMNUMMER" : 17005,
+    "VOORNAAM" : "Baz"
+  },
+  "146" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Van den Broeck",
+    "STAMNUMMER" : 11060,
+    "VOORNAAM" : "Lucas"
+  },
+  "147" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Nabih",
+    "STAMNUMMER" : 15055,
+    "VOORNAAM" : "Ayoub"
+  },
+  "148" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Van Cleemputte",
+    "STAMNUMMER" : 11085,
+    "VOORNAAM" : "Lilly-Fay"
+  },
+  "149" : {
+    "KLAS" : "L4A",
+    "NAAM" : "M��",
+    "STAMNUMMER" : 11058,
+    "VOORNAAM" : "Max"
+  },
+  "150" : {
+    "KLAS" : "L4A",
+    "NAAM" : "N'Dongo",
+    "STAMNUMMER" : 13047,
+    "VOORNAAM" : "Amadou"
+  },
+  "151" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Wouters",
+    "STAMNUMMER" : 11105,
+    "VOORNAAM" : "Helena"
+  },
+  "152" : {
+    "KLAS" : "L4A",
+    "NAAM" : "De Giovanni",
+    "STAMNUMMER" : 11094,
+    "VOORNAAM" : "Ilya"
+  },
+  "153" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Molina Vergara",
+    "STAMNUMMER" : 11030,
+    "VOORNAAM" : "Aisha"
+  },
+  "154" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Ballegeer",
+    "STAMNUMMER" : 13026,
+    "VOORNAAM" : "Kobe"
+  },
+  "155" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Van Dam",
+    "STAMNUMMER" : 11034,
+    "VOORNAAM" : "Yline"
+  },
+  "156" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Achalhi",
+    "STAMNUMMER" : 18048,
+    "VOORNAAM" : "Imaan"
+  },
+  "157" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Van Tilborgh",
+    "STAMNUMMER" : 11099,
+    "VOORNAAM" : "Lotte"
+  },
+  "158" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Cool",
+    "STAMNUMMER" : 13027,
+    "VOORNAAM" : "Pol"
+  },
+  "159" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Van Gansen",
+    "STAMNUMMER" : 11080,
+    "VOORNAAM" : "Kyan"
+  },
+  "160" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Hof",
+    "STAMNUMMER" : 11070,
+    "VOORNAAM" : "Lena"
+  },
+  "161" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Tesfaye",
+    "STAMNUMMER" : 12021,
+    "VOORNAAM" : "Delina"
+  },
+  "162" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Ingl�",
+    "STAMNUMMER" : 16037,
+    "VOORNAAM" : "Jurelma"
+  },
+  "163" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Gorrebeeck",
+    "STAMNUMMER" : 11041,
+    "VOORNAAM" : "Femke"
+  },
+  "164" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Muslimovic",
+    "STAMNUMMER" : 12032,
+    "VOORNAAM" : "Alisa"
+  },
+  "165" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Matejuk",
+    "STAMNUMMER" : 12024,
+    "VOORNAAM" : "Alan"
+  },
+  "166" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Oulad Ali",
+    "STAMNUMMER" : 14034,
+    "VOORNAAM" : "Samya"
+  },
+  "167" : {
+    "KLAS" : "L4A",
+    "NAAM" : "Bouklata",
+    "STAMNUMMER" : 18062,
+    "VOORNAAM" : "Tasniem"
+  },
+  "168" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Van den Broeck",
+    "STAMNUMMER" : 13051,
+    "VOORNAAM" : "Lex"
+  },
+  "169" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Faraouni",
+    "STAMNUMMER" : 13038,
+    "VOORNAAM" : "Anas"
+  },
+  "170" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Van Rillaer",
+    "STAMNUMMER" : 11088,
+    "VOORNAAM" : "Fien"
+  },
+  "171" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Casado Guillen",
+    "STAMNUMMER" : 11008,
+    "VOORNAAM" : "Christian"
+  },
+  "172" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Jacobs",
+    "STAMNUMMER" : 11056,
+    "VOORNAAM" : "Margo"
+  },
+  "173" : {
+    "KLAS" : "L4B",
+    "NAAM" : "D'eer",
+    "STAMNUMMER" : 11078,
+    "VOORNAAM" : "Maite"
+  },
+  "174" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Boughaba",
+    "STAMNUMMER" : 11052,
+    "VOORNAAM" : "Naoual"
+  },
+  "175" : {
+    "KLAS" : "L4B",
+    "NAAM" : "De Maesschalck",
+    "STAMNUMMER" : 11053,
+    "VOORNAAM" : "Maxime"
+  },
+  "176" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Vander Velpen",
+    "STAMNUMMER" : 11101,
+    "VOORNAAM" : "Senne"
+  },
+  "177" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Van Peer",
+    "STAMNUMMER" : 11039,
+    "VOORNAAM" : "Geike"
+  },
+  "178" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Brosens",
+    "STAMNUMMER" : 11005,
+    "VOORNAAM" : "Kato"
+  },
+  "179" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Van den Meerssche",
+    "STAMNUMMER" : 11098,
+    "VOORNAAM" : "Iben"
+  },
+  "180" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Van Dyck",
+    "STAMNUMMER" : 11036,
+    "VOORNAAM" : "Silke"
+  },
+  "181" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Sa�",
+    "STAMNUMMER" : 11033,
+    "VOORNAAM" : "Ishak"
+  },
+  "182" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Van Echelpoel",
+    "STAMNUMMER" : 11087,
+    "VOORNAAM" : "Thomas"
+  },
+  "183" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Madej",
+    "STAMNUMMER" : 11071,
+    "VOORNAAM" : "Nina"
+  },
+  "184" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Vandewijngaerde",
+    "STAMNUMMER" : 11086,
+    "VOORNAAM" : "Thor"
+  },
+  "185" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Van Ostaeyen",
+    "STAMNUMMER" : 11076,
+    "VOORNAAM" : "Emilie"
+  },
+  "186" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Ennasiri",
+    "STAMNUMMER" : 11054,
+    "VOORNAAM" : "Ayman"
+  },
+  "187" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Franquet",
+    "STAMNUMMER" : 11018,
+    "VOORNAAM" : "Hannah"
+  },
+  "188" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Voncken",
+    "STAMNUMMER" : 11077,
+    "VOORNAAM" : "Nio"
+  },
+  "189" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Belkadi",
+    "STAMNUMMER" : 16095,
+    "VOORNAAM" : "Hiba"
+  },
+  "190" : {
+    "KLAS" : "L4B",
+    "NAAM" : "El Bardouni",
+    "STAMNUMMER" : 16027,
+    "VOORNAAM" : "Mayssa"
+  },
+  "191" : {
+    "KLAS" : "L4B",
+    "NAAM" : "Benhadou",
+    "STAMNUMMER" : 12022,
+    "VOORNAAM" : "Yanis"
+  },
+  "192" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Sophie",
+    "STAMNUMMER" : 13083,
+    "VOORNAAM" : "Lewis"
+  },
+  "193" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Ngouwa",
+    "STAMNUMMER" : 12074,
+    "VOORNAAM" : "Lesline"
+  },
+  "194" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Franquet",
+    "STAMNUMMER" : 11019,
+    "VOORNAAM" : "Laurien"
+  },
+  "195" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Silva Nascimento",
+    "STAMNUMMER" : 11074,
+    "VOORNAAM" : "Mila"
+  },
+  "196" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Smolders",
+    "STAMNUMMER" : 17004,
+    "VOORNAAM" : "Yens"
+  },
+  "197" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Pauwels",
+    "STAMNUMMER" : 11079,
+    "VOORNAAM" : "Matts"
+  },
+  "198" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Beckx",
+    "STAMNUMMER" : 13029,
+    "VOORNAAM" : "Jasper"
+  },
+  "199" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Organe",
+    "STAMNUMMER" : 12002,
+    "VOORNAAM" : "Mona"
+  },
+  "200" : {
+    "KLAS" : "L4C",
+    "NAAM" : "N'Dongo",
+    "STAMNUMMER" : 13048,
+    "VOORNAAM" : "Aissata"
+  },
+  "201" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Rafiy",
+    "STAMNUMMER" : 14062,
+    "VOORNAAM" : "Maram"
+  },
+  "202" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Verraedt",
+    "STAMNUMMER" : 11102,
+    "VOORNAAM" : "Maxime"
+  },
+  "203" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Callens",
+    "STAMNUMMER" : 11100,
+    "VOORNAAM" : "Mille"
+  },
+  "204" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Gharani",
+    "STAMNUMMER" : 16028,
+    "VOORNAAM" : "Hassina"
+  },
+  "205" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Doudah",
+    "STAMNUMMER" : 14033,
+    "VOORNAAM" : "Rana"
+  },
+  "206" : {
+    "KLAS" : "L4C",
+    "NAAM" : "De Pr�",
+    "STAMNUMMER" : 12027,
+    "VOORNAAM" : "Roan"
+  },
+  "207" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Kaniki",
+    "STAMNUMMER" : 13031,
+    "VOORNAAM" : "Areeli"
+  },
+  "208" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Boulakhrif",
+    "STAMNUMMER" : 11093,
+    "VOORNAAM" : "Youssef"
+  },
+  "209" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Laba",
+    "STAMNUMMER" : 13072,
+    "VOORNAAM" : "Sonia Abla Agouti"
+  },
+  "210" : {
+    "KLAS" : "L4C",
+    "NAAM" : "De Cleen",
+    "STAMNUMMER" : 11064,
+    "VOORNAAM" : "Liam"
+  },
+  "211" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Steurs",
+    "STAMNUMMER" : 11097,
+    "VOORNAAM" : "Lily"
+  },
+  "212" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Bouda El Koubai",
+    "STAMNUMMER" : 18058,
+    "VOORNAAM" : "Lina"
+  },
+  "213" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Bouda El Koubai",
+    "STAMNUMMER" : 18059,
+    "VOORNAAM" : "Rim"
+  },
+  "214" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Van den Heuvel",
+    "STAMNUMMER" : 11061,
+    "VOORNAAM" : "Cas"
+  },
+  "215" : {
+    "KLAS" : "L4C",
+    "NAAM" : "Houvenaghel",
+    "STAMNUMMER" : 11096,
+    "VOORNAAM" : "Viktor"
+  },
+  "216" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Freund",
+    "STAMNUMMER" : 10020,
+    "VOORNAAM" : "Ryan"
+  },
+  "217" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Huybrechts",
+    "STAMNUMMER" : 9069,
+    "VOORNAAM" : "Jarne"
+  },
+  "218" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Verschueren",
+    "STAMNUMMER" : 10053,
+    "VOORNAAM" : "Allaya"
+  },
+  "219" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Wijnen",
+    "STAMNUMMER" : 10089,
+    "VOORNAAM" : "Nand"
+  },
+  "220" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Etalei",
+    "STAMNUMMER" : 12031,
+    "VOORNAAM" : "Lina"
+  },
+  "221" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Toks�",
+    "STAMNUMMER" : 10063,
+    "VOORNAAM" : "Ilyas"
+  },
+  "222" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Schollaert",
+    "STAMNUMMER" : 10085,
+    "VOORNAAM" : "Ilana"
+  },
+  "223" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Satiss",
+    "STAMNUMMER" : 12053,
+    "VOORNAAM" : "Meysa"
+  },
+  "224" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Temmerman",
+    "STAMNUMMER" : 10099,
+    "VOORNAAM" : "Lowie"
+  },
+  "225" : {
+    "KLAS" : "L5A",
+    "NAAM" : "De Vleesschauwer",
+    "STAMNUMMER" : 10073,
+    "VOORNAAM" : "Thyra"
+  },
+  "226" : {
+    "KLAS" : "L5A",
+    "NAAM" : "De Naeyer",
+    "STAMNUMMER" : 10072,
+    "VOORNAAM" : "Sam"
+  },
+  "227" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Palomo Fernandez",
+    "STAMNUMMER" : 10076,
+    "VOORNAAM" : "Valerio"
+  },
+  "228" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Elezi",
+    "STAMNUMMER" : 15037,
+    "VOORNAAM" : "Endrit"
+  },
+  "229" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Heuten",
+    "STAMNUMMER" : 9085,
+    "VOORNAAM" : "Angelina"
+  },
+  "230" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Belkadi",
+    "STAMNUMMER" : 16038,
+    "VOORNAAM" : "Ali"
+  },
+  "231" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Elezi",
+    "STAMNUMMER" : 15045,
+    "VOORNAAM" : "Laerta"
+  },
+  "232" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Ophalvens",
+    "STAMNUMMER" : 12030,
+    "VOORNAAM" : "Elmer"
+  },
+  "233" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Van Wolvelaer",
+    "STAMNUMMER" : 10097,
+    "VOORNAAM" : "Ayden"
+  },
+  "234" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Chiguer",
+    "STAMNUMMER" : 12029,
+    "VOORNAAM" : "Anwar"
+  },
+  "235" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Joos",
+    "STAMNUMMER" : 10095,
+    "VOORNAAM" : "Mauro"
+  },
+  "236" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Kaddour",
+    "STAMNUMMER" : 10048,
+    "VOORNAAM" : "Nawfal"
+  },
+  "237" : {
+    "KLAS" : "L5A",
+    "NAAM" : "Ouahchi",
+    "STAMNUMMER" : 13041,
+    "VOORNAAM" : "Ilyes"
+  },
+  "238" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Verlinden",
+    "STAMNUMMER" : 10066,
+    "VOORNAAM" : "Lore"
+  },
+  "239" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Voncken",
+    "STAMNUMMER" : 11042,
+    "VOORNAAM" : "Sterre"
+  },
+  "240" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Depaemelaere",
+    "STAMNUMMER" : 10046,
+    "VOORNAAM" : "Alexander"
+  },
+  "241" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Lam",
+    "STAMNUMMER" : 10082,
+    "VOORNAAM" : "Fiona"
+  },
+  "242" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Mari�",
+    "STAMNUMMER" : 10031,
+    "VOORNAAM" : "Dylan"
+  },
+  "243" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Apers",
+    "STAMNUMMER" : 15023,
+    "VOORNAAM" : "Stan"
+  },
+  "244" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Gilon",
+    "STAMNUMMER" : 10056,
+    "VOORNAAM" : "Roxanne"
+  },
+  "245" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Viaene",
+    "STAMNUMMER" : 10088,
+    "VOORNAAM" : "Vincent"
+  },
+  "246" : {
+    "KLAS" : "L5B",
+    "NAAM" : "De Volder",
+    "STAMNUMMER" : 12028,
+    "VOORNAAM" : "Lies"
+  },
+  "247" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Ahmindach",
+    "STAMNUMMER" : 10093,
+    "VOORNAAM" : "Haytham"
+  },
+  "248" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Vervoort",
+    "STAMNUMMER" : 10067,
+    "VOORNAAM" : "Mila"
+  },
+  "249" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Van Maele",
+    "STAMNUMMER" : 10087,
+    "VOORNAAM" : "Milan"
+  },
+  "250" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Van den Brande",
+    "STAMNUMMER" : 10052,
+    "VOORNAAM" : "Lore"
+  },
+  "251" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Wouters",
+    "STAMNUMMER" : 10090,
+    "VOORNAAM" : "Tess"
+  },
+  "252" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Baeten",
+    "STAMNUMMER" : 17095,
+    "VOORNAAM" : "Quinten"
+  },
+  "253" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Van Gansen",
+    "STAMNUMMER" : 10065,
+    "VOORNAAM" : "Kiara"
+  },
+  "254" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Gharani",
+    "STAMNUMMER" : 14076,
+    "VOORNAAM" : "Zakariya"
+  },
+  "255" : {
+    "KLAS" : "L5B",
+    "NAAM" : "De Saeger",
+    "STAMNUMMER" : 10077,
+    "VOORNAAM" : "Kaelan"
+  },
+  "256" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Huybrechts",
+    "STAMNUMMER" : 10080,
+    "VOORNAAM" : "Rihanna"
+  },
+  "257" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Karaca",
+    "STAMNUMMER" : 10081,
+    "VOORNAAM" : "Eslem"
+  },
+  "258" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Adnoub",
+    "STAMNUMMER" : 10092,
+    "VOORNAAM" : "Oumnia"
+  },
+  "259" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Benhaddou",
+    "STAMNUMMER" : 11002,
+    "VOORNAAM" : "Isa"
+  },
+  "260" : {
+    "KLAS" : "L5B",
+    "NAAM" : "Dahmany",
+    "STAMNUMMER" : 15029,
+    "VOORNAAM" : "Amir"
+  },
+  "261" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Saysay",
+    "STAMNUMMER" : 10051,
+    "VOORNAAM" : "Riyad"
+  },
+  "262" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Mory",
+    "STAMNUMMER" : 10032,
+    "VOORNAAM" : "Jens"
+  },
+  "263" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Peustjens",
+    "STAMNUMMER" : 10050,
+    "VOORNAAM" : "Jaro"
+  },
+  "264" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Hermans",
+    "STAMNUMMER" : 11022,
+    "VOORNAAM" : "Tirza"
+  },
+  "265" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Lierman",
+    "STAMNUMMER" : 10028,
+    "VOORNAAM" : "Emiel"
+  },
+  "266" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Wouters",
+    "STAMNUMMER" : 10068,
+    "VOORNAAM" : "Elena"
+  },
+  "267" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Harchi Azaoum",
+    "STAMNUMMER" : 12060,
+    "VOORNAAM" : "Laila"
+  },
+  "268" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Simons",
+    "STAMNUMMER" : 10096,
+    "VOORNAAM" : "Brent"
+  },
+  "269" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Hermans",
+    "STAMNUMMER" : 11021,
+    "VOORNAAM" : "Lander"
+  },
+  "270" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Doose",
+    "STAMNUMMER" : 10015,
+    "VOORNAAM" : "Cedric"
+  },
+  "271" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Annemans",
+    "STAMNUMMER" : 10055,
+    "VOORNAAM" : "Vinny"
+  },
+  "272" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Franck",
+    "STAMNUMMER" : 10078,
+    "VOORNAAM" : "Ilean"
+  },
+  "273" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Barberio",
+    "STAMNUMMER" : 10094,
+    "VOORNAAM" : "Lorena"
+  },
+  "274" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Van Cleemput",
+    "STAMNUMMER" : 9080,
+    "VOORNAAM" : "Amber"
+  },
+  "275" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Lierman",
+    "STAMNUMMER" : 10029,
+    "VOORNAAM" : "Lowie"
+  },
+  "276" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Annemans",
+    "STAMNUMMER" : 10054,
+    "VOORNAAM" : "Dafny"
+  },
+  "277" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Dendievel",
+    "STAMNUMMER" : 15036,
+    "VOORNAAM" : "Helena"
+  },
+  "278" : {
+    "KLAS" : "L5C",
+    "NAAM" : "El Uaamari",
+    "STAMNUMMER" : 15047,
+    "VOORNAAM" : "Mohamed"
+  },
+  "279" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Aerts",
+    "STAMNUMMER" : 10001,
+    "VOORNAAM" : "Faye"
+  },
+  "280" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Lauwers",
+    "STAMNUMMER" : 10074,
+    "VOORNAAM" : "Stef"
+  },
+  "281" : {
+    "KLAS" : "L5C",
+    "NAAM" : "El Meloudi",
+    "STAMNUMMER" : 12087,
+    "VOORNAAM" : "Wassim"
+  },
+  "282" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Sophie",
+    "STAMNUMMER" : 13058,
+    "VOORNAAM" : "Nona"
+  },
+  "283" : {
+    "KLAS" : "L5C",
+    "NAAM" : "Ledens",
+    "STAMNUMMER" : 18049,
+    "VOORNAAM" : "Kobe"
+  },
+  "284" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Van Peer",
+    "STAMNUMMER" : 9104,
+    "VOORNAAM" : "Jalke"
+  },
+  "285" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Claes",
+    "STAMNUMMER" : 9064,
+    "VOORNAAM" : "Thiago"
+  },
+  "286" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Organe",
+    "STAMNUMMER" : 9100,
+    "VOORNAAM" : "Lily"
+  },
+  "287" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Pauwels",
+    "STAMNUMMER" : 9059,
+    "VOORNAAM" : "Kaat"
+  },
+  "288" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Hullegems",
+    "STAMNUMMER" : 9086,
+    "VOORNAAM" : "Maxim"
+  },
+  "289" : {
+    "KLAS" : "L6A",
+    "NAAM" : "El Maghroudi",
+    "STAMNUMMER" : 11081,
+    "VOORNAAM" : "Hasnae"
+  },
+  "290" : {
+    "KLAS" : "L6A",
+    "NAAM" : "El Addad",
+    "STAMNUMMER" : 11090,
+    "VOORNAAM" : "Oussama"
+  },
+  "291" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Caluwaerts",
+    "STAMNUMMER" : 14042,
+    "VOORNAAM" : "Tanguy"
+  },
+  "292" : {
+    "KLAS" : "L6A",
+    "NAAM" : "De Langhe",
+    "STAMNUMMER" : 9093,
+    "VOORNAAM" : "Ilian"
+  },
+  "293" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Gevorgyan",
+    "STAMNUMMER" : 15056,
+    "VOORNAAM" : "Milena"
+  },
+  "294" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Ennassiri",
+    "STAMNUMMER" : 14052,
+    "VOORNAAM" : "Inaya"
+  },
+  "295" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Van Gestel",
+    "STAMNUMMER" : 10039,
+    "VOORNAAM" : "Charlotte"
+  },
+  "296" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Achalhi",
+    "STAMNUMMER" : 17058,
+    "VOORNAAM" : "Aya"
+  },
+  "297" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Franquet",
+    "STAMNUMMER" : 9077,
+    "VOORNAAM" : "Willem"
+  },
+  "298" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Franck",
+    "STAMNUMMER" : 9095,
+    "VOORNAAM" : "Elise"
+  },
+  "299" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Vanroosbroek",
+    "STAMNUMMER" : 9076,
+    "VOORNAAM" : "Lennert"
+  },
+  "300" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Schollaert",
+    "STAMNUMMER" : 9102,
+    "VOORNAAM" : "Nona"
+  },
+  "301" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Pinson",
+    "STAMNUMMER" : 10084,
+    "VOORNAAM" : "Amy Lee"
+  },
+  "302" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Neyt",
+    "STAMNUMMER" : 16030,
+    "VOORNAAM" : "Zeb"
+  },
+  "303" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Stoop",
+    "STAMNUMMER" : 9103,
+    "VOORNAAM" : "Amy"
+  },
+  "304" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Van Echelpoel",
+    "STAMNUMMER" : 9048,
+    "VOORNAAM" : "Emilie"
+  },
+  "305" : {
+    "KLAS" : "L6A",
+    "NAAM" : "Fran��",
+    "STAMNUMMER" : 9097,
+    "VOORNAAM" : "Yuna"
+  },
+  "306" : {
+    "KLAS" : "L6A",
+    "NAAM" : "De Prins",
+    "STAMNUMMER" : 9066,
+    "VOORNAAM" : "Eowyn"
+  },
+  "307" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Said",
+    "STAMNUMMER" : 9039,
+    "VOORNAAM" : "Yassir"
+  },
+  "308" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Falchou",
+    "STAMNUMMER" : 17055,
+    "VOORNAAM" : "Sami"
+  },
+  "309" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Zegers",
+    "STAMNUMMER" : 9053,
+    "VOORNAAM" : "Quinten"
+  },
+  "310" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Van Ostaeyen",
+    "STAMNUMMER" : 9081,
+    "VOORNAAM" : "Louise"
+  },
+  "311" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Zarioh",
+    "STAMNUMMER" : 17002,
+    "VOORNAAM" : "Lina"
+  },
+  "312" : {
+    "KLAS" : "L6B",
+    "NAAM" : "N'Dongo",
+    "STAMNUMMER" : 14044,
+    "VOORNAAM" : "Ibrahima"
+  },
+  "313" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Bennani",
+    "STAMNUMMER" : 11046,
+    "VOORNAAM" : "Inas"
+  },
+  "314" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Fajjia",
+    "STAMNUMMER" : 9057,
+    "VOORNAAM" : "Marjana"
+  },
+  "315" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Haran",
+    "STAMNUMMER" : 10026,
+    "VOORNAAM" : "Sara"
+  },
+  "316" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Jilali",
+    "STAMNUMMER" : 9070,
+    "VOORNAAM" : "Ilias"
+  },
+  "317" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Fran��",
+    "STAMNUMMER" : 9096,
+    "VOORNAAM" : "Kyna"
+  },
+  "318" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Schippers",
+    "STAMNUMMER" : 8077,
+    "VOORNAAM" : "Emma"
+  },
+  "319" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Morel",
+    "STAMNUMMER" : 14051,
+    "VOORNAAM" : "Adelina"
+  },
+  "320" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Hamade",
+    "STAMNUMMER" : 9078,
+    "VOORNAAM" : "Mehdi"
+  },
+  "321" : {
+    "KLAS" : "L6B",
+    "NAAM" : "De Cleen",
+    "STAMNUMMER" : 9091,
+    "VOORNAAM" : "Ana�"
+  },
+  "322" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Reynders",
+    "STAMNUMMER" : 9072,
+    "VOORNAAM" : "Mathias"
+  },
+  "323" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Kortmann",
+    "STAMNUMMER" : 9099,
+    "VOORNAAM" : "Noor"
+  },
+  "324" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Lambrechts",
+    "STAMNUMMER" : 13042,
+    "VOORNAAM" : "Yoran"
+  },
+  "325" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Masschaele",
+    "STAMNUMMER" : 12052,
+    "VOORNAAM" : "Floor"
+  },
+  "326" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Zelenkov",
+    "STAMNUMMER" : 13049,
+    "VOORNAAM" : "Fjodor"
+  },
+  "327" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Alioglu",
+    "STAMNUMMER" : 16042,
+    "VOORNAAM" : "Hilmi"
+  },
+  "328" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Senanu",
+    "STAMNUMMER" : 16029,
+    "VOORNAAM" : "Jasin"
+  },
+  "329" : {
+    "KLAS" : "L6B",
+    "NAAM" : "Bouzaidi",
+    "STAMNUMMER" : 9063,
+    "VOORNAAM" : "Mohammed"
+  },
+  "330" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Caremans",
+    "STAMNUMMER" : 9089,
+    "VOORNAAM" : "Dries"
+  },
+  "331" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Simon",
+    "STAMNUMMER" : 11063,
+    "VOORNAAM" : "Rafa�"
+  },
+  "332" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Brans",
+    "STAMNUMMER" : 9088,
+    "VOORNAAM" : "Moranne"
+  },
+  "333" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Gharani",
+    "STAMNUMMER" : 14077,
+    "VOORNAAM" : "Palwasha"
+  },
+  "334" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Manoukian",
+    "STAMNUMMER" : 9034,
+    "VOORNAAM" : "Valerie"
+  },
+  "335" : {
+    "KLAS" : "L6C",
+    "NAAM" : "De Baets",
+    "STAMNUMMER" : 9090,
+    "VOORNAAM" : "Dries"
+  },
+  "336" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Vandewijngaerde",
+    "STAMNUMMER" : 9075,
+    "VOORNAAM" : "Nils"
+  },
+  "337" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Kortmann",
+    "STAMNUMMER" : 9098,
+    "VOORNAAM" : "Arthur"
+  },
+  "338" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Delaei",
+    "STAMNUMMER" : 10012,
+    "VOORNAAM" : "Kato"
+  },
+  "339" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Kajjiaa",
+    "STAMNUMMER" : 14038,
+    "VOORNAAM" : "Wiam"
+  },
+  "340" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Verwerft",
+    "STAMNUMMER" : 10040,
+    "VOORNAAM" : "Thor"
+  },
+  "341" : {
+    "KLAS" : "L6C",
+    "NAAM" : "De Hertogh",
+    "STAMNUMMER" : 9092,
+    "VOORNAAM" : "Rani"
+  },
+  "342" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Yakub",
+    "STAMNUMMER" : 12057,
+    "VOORNAAM" : "Soykan"
+  },
+  "343" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Swinkels",
+    "STAMNUMMER" : 9074,
+    "VOORNAAM" : "Kenzo"
+  },
+  "344" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Aerts",
+    "STAMNUMMER" : 9062,
+    "VOORNAAM" : "Ella"
+  },
+  "345" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Tassyns",
+    "STAMNUMMER" : 10038,
+    "VOORNAAM" : "Hayley"
+  },
+  "346" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Rincheval",
+    "STAMNUMMER" : 9087,
+    "VOORNAAM" : "Rune"
+  },
+  "347" : {
+    "KLAS" : "L6C",
+    "NAAM" : "N'Dongo",
+    "STAMNUMMER" : 14039,
+    "VOORNAAM" : "Marieme"
+  },
+  "348" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Claus",
+    "STAMNUMMER" : 9011,
+    "VOORNAAM" : "Jente"
+  },
+  "349" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Provo",
+    "STAMNUMMER" : 9101,
+    "VOORNAAM" : "Warre"
+  },
+  "350" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Butzen",
+    "STAMNUMMER" : 9056,
+    "VOORNAAM" : "Jorien"
+  },
+  "351" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Doudah",
+    "STAMNUMMER" : 14036,
+    "VOORNAAM" : "Sirine"
+  },
+  "352" : {
+    "KLAS" : "L6C",
+    "NAAM" : "Chichian",
+    "STAMNUMMER" : 11009,
+    "VOORNAAM" : "Ilias"
+  },
+  "Text" : "Test",
+  "text" : "Hi"
+}

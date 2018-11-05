@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    
+</head>
+<body>
+
+
+
+    <h1 id="hObject">
+
+    </h1>
+
+    <p id="naam">
+
+    </p>
+
+    <ul id="list">
+
+
+    </ul>
+    
+    
+    
+  
+    
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.7/firebase.js"></script>
+  
+
+
+      <script>
+      var config = {
+        apiKey: "AIzaSyCbhpvjvE1yvJSzNNorpXa0U5I-dBUYWBo",
+        authDomain: "dearkbib.firebaseapp.com",
+        databaseURL: "https://dearkbib.firebaseio.com",
+        projectId: "dearkbib",
+        storageBucket: "dearkbib.appspot.com",
+        messagingSenderId: "617288237445"
+      };
+      firebase.initializeApp(config);
+      
+      //grab the html elements
+      let hObject = document.getElementById("hObject");
+
+      let naam = document.getElementById("naam");
+
+      const ulist = document.getElementById('list');
+
+      //reference the object in our database
+      let dbRef = firebase.database().ref().child('object');
+      let dbRefList = dbRef.child('hobbies');
+      let dbKlas = firebase.database().ref().child(352).child('KLAS');
+
+      //console the value of object in the database
+      dbRef.on('value', snap => console.log(snap.val()) );
+      dbKlas.on('value', snap => console.log(snap.val()) );
+
+      //show the value of object in html
+      dbRef.on('value', snap => {
+        hObject.innerText = JSON.stringify(snap.val());
+      });      
+
+      //sync list changes
+      dbKlas.on('child_added', snap => {
+
+      const li = document.createElement('li');
+      li.innerText = snap.val();
+      li.id = snap.key;
+      ulist.appendChild(li);
+
+      const lijst = document.createElement('li');
+      lijst.innerText = snap.val();
+      ulist.appendChild(lijst);
+
+      });
+
+      dbRefList.on('child_changed', snap => {
+        const liChanged = document.getElementById(snap.key);
+        liChanged.innerText = snap.val();
+      });
+
+      dbRefList.on('child_removed', snap => {
+        const liRemoved = document.getElementById(snap.key);
+        liRemoved.innerText = snap.val();
+      });
+
+      
+
+      for (let i = 0; i < 25; i++) {
+         
+          let createPara = document.createElement("p");
+          
+          let dbRef = firebase.database().ref().child(i).child('NAAM');
+        dbRef.on('value', snap => naam.innerText = snap.val());
+
+      }
+
+      
+      //dbRef.on('value', snap => bigOne.innerText = snap.val());
+
+
+      
+
+
+    </script>
+  
+
+
+</body>
+</html>
